@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">hy-bird</string>
+
+    <string name="easing_the">
+        Easing the transition for work from home to office
+    </string>
+
 </resources>
