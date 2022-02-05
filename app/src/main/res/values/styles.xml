@@ -12,4 +12,16 @@
 
     </style>
 
+    <style name="continue_wi">
+
+        <item name="android:textSize">
+            16.1sp
+        </item>
+
+        <item name="android:textColor">
+            #EFF0F2
+        </item>
+
+    </style>
+
 </resources>

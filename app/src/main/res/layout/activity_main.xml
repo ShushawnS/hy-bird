@@ -18,8 +18,7 @@
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/logo" />
 
-    <!-- Easying the transition for work from home to office -->
-    <TextView
+    <!-- Easying the transition for work from home to office --><TextView
         android:id="@+id/easying_the"
         android:layout_width="286dp"
         android:layout_height="54dp"
@@ -35,5 +34,39 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.24000001" />
+
+    <!-- Continue with Google -->
+    <TextView
+        android:id="@+id/continue_wi"
+        android:layout_width="174.8dp"
+        android:layout_height="24.15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/continue_wi"
+        android:textAppearance="@style/continue_wi"
+        app:layout_constraintBottom_toBottomOf="@+id/eLoginButton"
+        app:layout_constraintEnd_toEndOf="@+id/eLoginButton"
+        app:layout_constraintStart_toStartOf="@+id/eLoginButton"
+        app:layout_constraintTop_toBottomOf="@+id/easying_the" />
+
+    <!-- SignIn Button -->
+    <Button
+        android:id="@+id/eLoginButton"
+        android:layout_width="290dp"
+        android:layout_height="69dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/eLoginButton"
+        android:fontFamily="@font/poppins_medium"
+        android:textAppearance="Continue with Google"
+        app:backgroundTint="transparent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.64" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
