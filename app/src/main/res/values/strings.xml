@@ -5,4 +5,12 @@
         Easing the transition for work from home to office
     </string>
 
+    <string name="continue_wi">
+        Continue with Google
+    </string>
+
+    <string name="don_t_have_">
+        Don\'t have an account? Sign Up
+    </string>
+
 </resources>

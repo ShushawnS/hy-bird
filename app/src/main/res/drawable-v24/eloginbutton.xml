@@ -1,0 +1,30 @@
+<!-- drawable/eloginbutton.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="290dp"
+    android:height="69dp"
+    android:viewportWidth="290"
+    android:viewportHeight="69"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M10 0H280C285.523 0 290 4.47715 290 10V59C290 64.5228 285.523 69 280 69H10C4.47715 69 0 64.5228 0 59V10C0 4.47715 4.47715 0 10 0Z"
+            />
+
+        <path
+            android:pathData="M0 0V69H290V0"
+            android:fillColor="#20202D"
+            />
+
+        <path
+            android:pathData="M10 0H280C285.523 0 290 4.47715 290 10V59C290 64.5228 285.523 69 280 69H10C4.47715 69 0 64.5228 0 59V10C0 4.47715 4.47715 0 10 0Z"
+            android:strokeWidth="2"
+            android:strokeColor="#55556F"
+            />
+
+    </group>
+
+</vector>

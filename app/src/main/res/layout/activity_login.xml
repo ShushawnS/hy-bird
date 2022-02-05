@@ -15,7 +15,7 @@
         android:layout_marginLeft="25dp"
         android:layout_alignParentTop="true"
         android:layout_marginTop="157dp"
-        android:text="@string/easying_the"
+        android:text="@string/easing_the"
         android:textAppearance="@style/easying_the"
         android:gravity="top"
         />
