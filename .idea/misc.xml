@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2064102564102564" />
+        <entry key="..\:/Users/shush/AndroidStudioProjects/hybird/app/src/main/res/layout/activity_algorithm.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/shush/AndroidStudioProjects/hybird/app/src/main/res/layout/activity_algorithm2.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/shush/AndroidStudioProjects/hybird/app/src/main/res/layout/activity_login.xml" value="0.203125" />
+        <entry key="..\:/Users/shush/AndroidStudioProjects/hybird/app/src/main/res/layout/activity_main.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/shush/AndroidStudioProjects/hybird/app/src/main/res/layout/weather_api.xml" value="0.17426545086119555" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.25677083333333334" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.23177083333333334" />
-        <entry key="app/src/main/res/layout/onboarding_slider.xml" value="0.22" />
-        <entry key="app/src/main/res/layout/weather_api.xml" value="0.22" />
       </map>
     </option>
   </component>
